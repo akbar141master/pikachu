@@ -70,7 +70,7 @@ Click MONSTER logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@masterAkbar/pikachu-QR-1)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/akbar141master/botakbar2-.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/akbar141master/pikachu.git)
      </div>
 <br>
 <br >
@@ -90,7 +90,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/akbar141master/botakbar2-
+$ git clone https://github.com/akbar141master/pikachu
 $ cd botakbar2-
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/akbar141master/botakbar2-
+$ git clone https://github.com/akbar141master/pikachu
 $ cd botakbar2-
 $ chmod +x *
 $ npm i
